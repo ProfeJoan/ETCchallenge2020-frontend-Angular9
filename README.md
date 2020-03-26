@@ -1,6 +1,6 @@
 # ETCchallenge2020-frontend-Angular9
 
-[Autor JOAN]()
+***Autor JOAN***
 
 ## Espero que disfrute de este proyecto!
 ### Pero, antes revisemos otra vez un par de cosas que debe saber...
